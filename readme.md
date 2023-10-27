@@ -1,7 +1,6 @@
 # @aiorangecats - Artistic Interpretations of Famous Paintings with Orange Cats
 
-<p align="center">
-![Profile Picture](/assets/Cat-Links.png) </p>
+![Profile Picture](/assets/Cat-Links.png)
 
 ## Overview
 
